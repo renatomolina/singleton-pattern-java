@@ -1,11 +1,11 @@
 
 Instructions to compile and run
-```bash
+```Java
 javac Main.java
 java Main
 ```
 
 Should be displayed:
-```bash
+```Java
 Hello Humans
 ```
