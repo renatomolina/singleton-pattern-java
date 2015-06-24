@@ -1,8 +1,11 @@
+
 Instructions to compile and run
-> javac Main.java
-> java Main
+```bash
+javac Main.java
+java Main
+```
 
 Should be displayed:
-> Hello Humans
-
-Problems? renato.molina@jazz.etc.br
+```bash
+Hello Humans
+```
